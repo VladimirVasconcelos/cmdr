@@ -1,4 +1,4 @@
-# Command Runner - GO
+# Go Command Runner
 
 Simple command runner
 
